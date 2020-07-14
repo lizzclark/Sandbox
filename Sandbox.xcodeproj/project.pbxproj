@@ -18,6 +18,7 @@
 		85B51DAD24BE0A1C00476DFB /* SidebarList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DAC24BE0A1C00476DFB /* SidebarList.swift */; };
 		85B51DAF24BE0A9C00476DFB /* SidebarOrTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */; };
 		85B51DB124BE0AF800476DFB /* LabelWithImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB024BE0AF800476DFB /* LabelWithImage.swift */; };
+		85B51DB324BE0B6900476DFB /* ScaledMetricImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		85B51DAC24BE0A1C00476DFB /* SidebarList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarList.swift; sourceTree = "<group>"; };
 		85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarOrTabView.swift; sourceTree = "<group>"; };
 		85B51DB024BE0AF800476DFB /* LabelWithImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelWithImage.swift; sourceTree = "<group>"; };
+		85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaledMetricImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				85B51DAC24BE0A1C00476DFB /* SidebarList.swift */,
 				85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */,
 				85B51DB024BE0AF800476DFB /* LabelWithImage.swift */,
+				85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */,
 			);
 			path = "Example Views";
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				517B237424B9011F0073C8F6 /* SandboxApp.swift in Sources */,
 				85B51DAD24BE0A1C00476DFB /* SidebarList.swift in Sources */,
 				517B238524B901B30073C8F6 /* Bundle-Decodable.swift in Sources */,
+				85B51DB324BE0B6900476DFB /* ScaledMetricImage.swift in Sources */,
 				85B51DB124BE0AF800476DFB /* LabelWithImage.swift in Sources */,
 				85B51DAF24BE0A9C00476DFB /* SidebarOrTabView.swift in Sources */,
 			);

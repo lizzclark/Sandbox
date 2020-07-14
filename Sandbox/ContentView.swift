@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var text: String = ""
     
     var body: some View {
-        LabelWithImage()
+        ScaledMetricImage()
     }
 }
 
