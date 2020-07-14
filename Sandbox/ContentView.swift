@@ -12,12 +12,7 @@ struct ContentView: View {
     @State private var text: String = ""
     
     var body: some View {
-        NavigationView {
-            TextEditor(text: $text)
-                .foregroundColor(.black)
-                .font(.system(size: 36, weight: .bold, design: .rounded))
-                .navigationTitle("Text Editing")
-        }
+        AnimatingMapPin()
     }
 }
 
@@ -26,4 +21,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-

@@ -13,6 +13,7 @@
 		517B237B24B901210073C8F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 517B237A24B901210073C8F6 /* Preview Assets.xcassets */; };
 		517B238524B901B30073C8F6 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517B238424B901B30073C8F6 /* Bundle-Decodable.swift */; };
 		517B238724B9024D0073C8F6 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 517B238624B9024D0073C8F6 /* countries.json */; };
+		85B51DA824BE088500476DFB /* AnimatingMapPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DA724BE088500476DFB /* AnimatingMapPin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		517B237C24B901210073C8F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		517B238424B901B30073C8F6 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		517B238624B9024D0073C8F6 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		85B51DA724BE088500476DFB /* AnimatingMapPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingMapPin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		517B237224B9011F0073C8F6 /* Sandbox */ = {
 			isa = PBXGroup;
 			children = (
+				85B51DA924BE088F00476DFB /* Example Views */,
 				517B237324B9011F0073C8F6 /* SandboxApp.swift */,
 				517B237524B9011F0073C8F6 /* ContentView.swift */,
 				517B238424B901B30073C8F6 /* Bundle-Decodable.swift */,
@@ -73,6 +76,14 @@
 				517B237A24B901210073C8F6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		85B51DA924BE088F00476DFB /* Example Views */ = {
+			isa = PBXGroup;
+			children = (
+				85B51DA724BE088500476DFB /* AnimatingMapPin.swift */,
+			);
+			path = "Example Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -146,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				517B237624B9011F0073C8F6 /* ContentView.swift in Sources */,
+				85B51DA824BE088500476DFB /* AnimatingMapPin.swift in Sources */,
 				517B237424B9011F0073C8F6 /* SandboxApp.swift in Sources */,
 				517B238524B901B30073C8F6 /* Bundle-Decodable.swift in Sources */,
 			);
