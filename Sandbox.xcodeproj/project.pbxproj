@@ -16,6 +16,7 @@
 		85B51DA824BE088500476DFB /* AnimatingMapPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DA724BE088500476DFB /* AnimatingMapPin.swift */; };
 		85B51DAB24BE097000476DFB /* ListWithChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DAA24BE097000476DFB /* ListWithChildren.swift */; };
 		85B51DAD24BE0A1C00476DFB /* SidebarList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DAC24BE0A1C00476DFB /* SidebarList.swift */; };
+		85B51DAF24BE0A9C00476DFB /* SidebarOrTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		85B51DA724BE088500476DFB /* AnimatingMapPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingMapPin.swift; sourceTree = "<group>"; };
 		85B51DAA24BE097000476DFB /* ListWithChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithChildren.swift; sourceTree = "<group>"; };
 		85B51DAC24BE0A1C00476DFB /* SidebarList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarList.swift; sourceTree = "<group>"; };
+		85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarOrTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				85B51DA724BE088500476DFB /* AnimatingMapPin.swift */,
 				85B51DAA24BE097000476DFB /* ListWithChildren.swift */,
 				85B51DAC24BE0A1C00476DFB /* SidebarList.swift */,
+				85B51DAE24BE0A9C00476DFB /* SidebarOrTabView.swift */,
 			);
 			path = "Example Views";
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				517B237424B9011F0073C8F6 /* SandboxApp.swift in Sources */,
 				85B51DAD24BE0A1C00476DFB /* SidebarList.swift in Sources */,
 				517B238524B901B30073C8F6 /* Bundle-Decodable.swift in Sources */,
+				85B51DAF24BE0A9C00476DFB /* SidebarOrTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
