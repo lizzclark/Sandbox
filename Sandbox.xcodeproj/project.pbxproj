@@ -21,6 +21,7 @@
 		85B51DB324BE0B6900476DFB /* ScaledMetricImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */; };
 		85B51DB524BE0BD400476DFB /* MatchedGeometryAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB424BE0BD400476DFB /* MatchedGeometryAnimation.swift */; };
 		85B51DB724BF010E00476DFB /* ToolbarItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB624BF010E00476DFB /* ToolbarItemView.swift */; };
+		85B51DB924BF052300476DFB /* ColorPickingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B51DB824BF052300476DFB /* ColorPickingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaledMetricImage.swift; sourceTree = "<group>"; };
 		85B51DB424BE0BD400476DFB /* MatchedGeometryAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryAnimation.swift; sourceTree = "<group>"; };
 		85B51DB624BF010E00476DFB /* ToolbarItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarItemView.swift; sourceTree = "<group>"; };
+		85B51DB824BF052300476DFB /* ColorPickingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				85B51DB224BE0B6900476DFB /* ScaledMetricImage.swift */,
 				85B51DB424BE0BD400476DFB /* MatchedGeometryAnimation.swift */,
 				85B51DB624BF010E00476DFB /* ToolbarItemView.swift */,
+				85B51DB824BF052300476DFB /* ColorPickingView.swift */,
 			);
 			path = "Example Views";
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				85B51DA824BE088500476DFB /* AnimatingMapPin.swift in Sources */,
 				85B51DAB24BE097000476DFB /* ListWithChildren.swift in Sources */,
 				517B237424B9011F0073C8F6 /* SandboxApp.swift in Sources */,
+				85B51DB924BF052300476DFB /* ColorPickingView.swift in Sources */,
 				85B51DAD24BE0A1C00476DFB /* SidebarList.swift in Sources */,
 				85B51DB524BE0BD400476DFB /* MatchedGeometryAnimation.swift in Sources */,
 				85B51DB724BF010E00476DFB /* ToolbarItemView.swift in Sources */,
